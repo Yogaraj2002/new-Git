@@ -1,5 +1,2 @@
-## Git Try
-This is a sample Git Workout
-
-## New one
-This is First
+## Git 
+This is the First thing
